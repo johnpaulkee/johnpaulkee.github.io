@@ -182,14 +182,14 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.aboutMe {
     color: #fff;
-    background: #262626;
+    background: #3e3e3e;
 }
 
 section.projects {
     color: #fff;
-    background: #3e3e3e;
+    background: #262626;
 }
 
 @media(max-width:767px) {
@@ -201,10 +201,6 @@ section.projects {
         padding-top: 75px;
     }
 }
-
-
-
-
 
 .btn-outline {
     margin-top: 15px;
