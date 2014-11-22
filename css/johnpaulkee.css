@@ -53,7 +53,7 @@ hr.resume-primary:after {
     position: relative;
     top: -.8em;
     padding: 0 .25em;
-    font-family: FontAwesome;
+    font-family: Roboto;
     font-size: 2em;
 }
 
@@ -112,7 +112,7 @@ header .intro-text .skills {
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
-        padding-bottom: 100px;
+        padding-bottom: 50px;
     }
 
     header .intro-text .name {
@@ -152,8 +152,8 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #1d1d1d;
-    opacity: 0.9;
+    background-color: #262626;
+    opacity: 0.8;
 }
 
 .navbar a:focus {
@@ -185,6 +185,7 @@ section h2 {
 section.aboutMe {
     color: #fff;
     background: #3e3e3e;
+    background-image: url("img/header/mountains.jpeg");
 }
 
 section.projects {
@@ -334,4 +335,17 @@ footer .footer-below {
 
 .scroll-top .btn:focus {
     outline: 0;
+}
+
+.someDivOverlay {
+   background: rgba(32, 32, 32, 0.4)
+}
+
+#headerBG {
+    background-image: url(../img/header/mountains.jpeg);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
