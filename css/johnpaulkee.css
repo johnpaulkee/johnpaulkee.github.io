@@ -36,8 +36,8 @@ h6 {
     font-weight: 700;
 }
 
-hr.star-light,
-hr.star-primary {
+hr.resume-light,
+hr.resume-primary {
     margin: 25px auto 30px;
     padding: 0;
     max-width: 250px;
@@ -46,8 +46,8 @@ hr.star-primary {
     text-align: center;
 }
 
-hr.star-light:after,
-hr.star-primary:after {
+hr.resume-light:after,
+hr.resume-primary:after {
     content: "\f005";
     display: inline-block;
     position: relative;
@@ -57,20 +57,20 @@ hr.star-primary:after {
     font-size: 2em;
 }
 
-hr.star-light {
+hr.resume-light {
     border-color: #fff;
 }
 
-hr.star-light:after {
+hr.resume-light:after {
     color: #fff;
     background-color: #262626;
 }
 
-hr.star-primary {
+hr.resume-primary {
     border-color: #1d1d1d;
 }
 
-hr.star-primary:after {
+hr.resume-primary:after {
     color: #1d1d1d;
     background-color: #fff;
 }
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #262626;  
+    background: #262626;
 }
 
 header .container {
