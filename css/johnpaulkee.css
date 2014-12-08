@@ -10,10 +10,12 @@ body {
 
 p {
     font-size: 20px;
+    line-height: 120%;
 }
 
 p.small {
     font-size: 16px;
+    line-height: 120%
 }
 
 a,
@@ -342,7 +344,7 @@ footer .footer-below {
 }
 
 #headerBG {
-    background-image: url(../img/header/mountains.jpg);
+    background-image: url(../img/header/mountains.j`p`g);
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
