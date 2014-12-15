@@ -283,7 +283,7 @@ a:focus {
     color: black;
 }
 
-.aboutHeader-section {
+.portfolioHeader-section, .aboutHeader-section, .contactHeader-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -295,42 +295,8 @@ a:focus {
     padding-bottom: 20px;
 }
 
-.portfolioHeader-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background-color: #141414;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    padding-bottom: 20px;
-}
 
-.contact-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background-color: #141414;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    padding-bottom: 20px;
-}
-
-.portfolio-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background-color: #232323;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.about-section {
+.portfolio-section, .about-section, .contact-section {
     width: 100%;
     padding: 50px 0;
     color: black;
@@ -339,7 +305,6 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
 }
 
 #map {
