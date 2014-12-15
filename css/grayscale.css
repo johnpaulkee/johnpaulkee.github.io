@@ -146,6 +146,7 @@ a:focus {
     padding: 0 0;
     text-align: center;
     color: #fff;
+    padding-top: 30%;
     background: url(../img/Background.png) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
