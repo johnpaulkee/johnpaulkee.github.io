@@ -14,3 +14,6 @@ My social networks:
 
 ## Thanks for checking my page out!
 Feel free to send me a message at johnpaulkee@gmail.com
+
+## Credits
+## Thank you to Xiaoying Riley for allowing me to use this Bootstrap template you created and modifying it to my liking!
