@@ -56,10 +56,6 @@ p {
   line-height: 180%;
 }
 
-.name {
-  text-transform: uppercase;
-}
-
 .subheader {
   color: #676767;
   margin-bottom: 3px;
