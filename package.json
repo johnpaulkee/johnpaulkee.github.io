@@ -18,5 +18,5 @@
     "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://johnpaulkee.github.io/"
+  "homepage": "https://johnpaulkee.github.io/resume"
 }
